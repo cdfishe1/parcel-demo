@@ -4,7 +4,9 @@
   "description": "Experimenting with parcel to bundle a basic website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel ./*.html",
+    "predeploy": "rm -rf dist && parcel build ./*.html --public-url 'https://github.com/cdfishe1/parcel-demo.git",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
