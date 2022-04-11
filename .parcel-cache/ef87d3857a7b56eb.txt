@@ -1,8 +1,8 @@
-5998
+6002
 33C:\Learning\parcel-demo\.cache\a5132941801989496037 1
 54C:\Learning\parcel-demo\node_modules\nan\nan_private.h131637928500000000 0
 34C:\Learning\parcel-demo\.gitignore132941828205968653 0
-36C:\Learning\parcel-demo\package.json132941835393316975 0
+36C:\Learning\parcel-demo\package.json132941838450453645 0
 53C:\Learning\parcel-demo\node_modules\lodash\fp\max.js121436361000000000 0
 59C:\Learning\parcel-demo\node_modules\async\groupBySeries.js121436361000000000 0
 60C:\Learning\parcel-demo\node_modules\lodash\fp\conformsTo.js121436361000000000 0
@@ -15,7 +15,7 @@
 56C:\Learning\parcel-demo\node_modules\lodash\fp\pathOr.js121436361000000000 0
 45C:\Learning\parcel-demo\node_modules\make-dir132941823893491100 1
 56C:\Learning\parcel-demo\node_modules\array-uniq\index.js131105532140000000 0
-28C:\Learning\parcel-demo\dist132941835733892406 1
+28C:\Learning\parcel-demo\dist132941838782998026 1
 115C:\Learning\parcel-demo\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js121436361000000000 0
 54C:\Learning\parcel-demo\node_modules\lodash\valueOf.js121436361000000000 0
 80C:\Learning\parcel-demo\node_modules\caniuse-lite\data\features\accelerometer.js121436361000000000 0
@@ -990,7 +990,7 @@
 86C:\Learning\parcel-demo\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js121436361000000000 0
 64C:\Learning\parcel-demo\node_modules\css-tree\lib\utils\clone.js121436361000000000 0
 85C:\Learning\parcel-demo\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
-46C:\Learning\parcel-demo\dist\index.3d214d75.js132941835733852413 0
+46C:\Learning\parcel-demo\dist\index.3d214d75.js132941838759902593 0
 68C:\Learning\parcel-demo\node_modules\css-tree\lib\syntax\node\Nth.js121436361000000000 0
 56C:\Learning\parcel-demo\node_modules\braces\lib\utils.js121436361000000000 0
 55C:\Learning\parcel-demo\node_modules\mdn-data\README.md121436361000000000 0
@@ -2846,6 +2846,7 @@
 56C:\Learning\parcel-demo\node_modules\lodash\_cacheHas.js121436361000000000 0
 67C:\Learning\parcel-demo\node_modules\lodash\_castArrayLikeObject.js121436361000000000 0
 73C:\Learning\parcel-demo\node_modules\caniuse-lite\data\features\dnssec.js121436361000000000 0
+47C:\Learning\parcel-demo\dist\index.b18ddba3.css132941838782958041 0
 60C:\Learning\parcel-demo\node_modules\lodash\_castFunction.js121436361000000000 0
 106C:\Learning\parcel-demo\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json121436361000000000 0
 58C:\Learning\parcel-demo\node_modules\css-tree\package.json132941801626100732 0
@@ -4319,6 +4320,7 @@
 68C:\Learning\parcel-demo\node_modules\caniuse-lite\data\regions\GR.js121436361000000000 0
 50C:\Learning\parcel-demo\node_modules\clone\LICENSE130657054670000000 0
 68C:\Learning\parcel-demo\node_modules\chrome-trace-event\package.json132941801624510704 0
+50C:\Learning\parcel-demo\dist\index.9dfca156.js.map132941838783048046 0
 77C:\Learning\parcel-demo\node_modules\chrome-trace-event\dist\trace-event.d.ts121436361000000000 0
 79C:\Learning\parcel-demo\node_modules\chrome-trace-event\dist\trace-event.js.map121436361000000000 0
 78C:\Learning\parcel-demo\node_modules\caniuse-lite\data\features\multicolumn.js121436361000000000 0
@@ -4821,7 +4823,7 @@
 49C:\Learning\parcel-demo\node_modules\async\any.js121436361000000000 0
 55C:\Learning\parcel-demo\node_modules\async\anySeries.js121436361000000000 0
 51C:\Learning\parcel-demo\node_modules\async\apply.js121436361000000000 0
-47C:\Learning\parcel-demo\dist\index.8353e49f.css132941835733862530 0
+47C:\Learning\parcel-demo\dist\index.8353e49f.css132941838759902593 0
 55C:\Learning\parcel-demo\node_modules\async\applyEach.js121436361000000000 0
 61C:\Learning\parcel-demo\node_modules\async\applyEachSeries.js121436361000000000 0
 101C:\Learning\parcel-demo\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.js132902623550000000 0
@@ -5018,7 +5020,7 @@
 82C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_class_private_method_set.js132919038830000000 0
 93C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_class_static_private_field_spec_get.js132919038830000000 0
 93C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js132919038830000000 0
-51C:\Learning\parcel-demo\dist\index.8353e49f.css.map132941835733852413 0
+51C:\Learning\parcel-demo\dist\index.8353e49f.css.map132941838759902593 0
 70C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_create_class.js132919038830000000 0
 70C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_create_super.js132919038830000000 0
 66C:\Learning\parcel-demo\node_modules\@swc\helpers\lib\_decorate.js132919038830000000 0
@@ -5871,8 +5873,10 @@
 33C:\Learning\parcel-demo\.cache\17132941801986986007 1
 52C:\Learning\parcel-demo\node_modules\.bin\terser.cmd132941801626971021 0
 52C:\Learning\parcel-demo\node_modules\.bin\terser.ps1132941801626971021 0
-50C:\Learning\parcel-demo\dist\index.3d214d75.js.map132941835733872398 0
-39C:\Learning\parcel-demo\dist\index.html132941835733852413 0
+50C:\Learning\parcel-demo\dist\index.3d214d75.js.map132941838759922600 0
+46C:\Learning\parcel-demo\dist\index.9dfca156.js132941838782958041 0
+51C:\Learning\parcel-demo\dist\index.b18ddba3.css.map132941838783048046 0
+39C:\Learning\parcel-demo\dist\index.html132941838782958041 0
 33C:\Learning\parcel-demo\.cache\00132941801986775977 1
 33C:\Learning\parcel-demo\.cache\01132941801986785983 1
 33C:\Learning\parcel-demo\.cache\07132941801986936009 1
